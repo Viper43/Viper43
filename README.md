@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I'm a passionate Software Engineer currently diving into the world of Data Science and Machine Learning.
 - 🌱 I’m excited to expand my skill set and deepen my understanding of data-driven solutions
-- 👯 I’m actively learning about data analysis, statistical modeling, and machine learning algorithms, and I’m eager to collaborate with others who share these interests.
+- 👯 I’m actively learning about data analysis, statistical modeling, and machine learning algorithms.
 - 🤔 I'm always open to contributions and collaborations, so don't hesitate to reach out!
 - ⚡ Fun fact: I love playing Chess
 
